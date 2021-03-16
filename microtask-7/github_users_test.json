@@ -1,0 +1,72 @@
+[
+    {
+      "login": "gregkh",
+      "email": "gregkh!linuxfoundation.org",
+      "affiliation": "The Linux Foundation",
+      "source": "config",
+      "name": "Greg Kroah-Hartman",
+      "commits": 37122,
+      "location": null,
+      "country_id": null
+    },
+    {
+      "login": "k8s-ci-robot",
+      "email": "k8s-ci-robot!users.noreply.github.com",
+      "affiliation": "(Robots)",
+      "source": "manual",
+      "name": null,
+      "commits": 36317,
+      "location": "The Cloud",
+      "country_id": "gb"
+    },
+    {
+      "login": "davem330",
+      "email": "davem!davemloft.net",
+      "affiliation": "Red Hat",
+      "source": "manual",
+      "name": "David S. Miller",
+      "commits": 29460,
+      "location": null,
+      "country_id": null
+    },
+    {
+      "login": "torvalds",
+      "email": "torvalds!linux-foundation.org",
+      "affiliation": "The Linux Foundation",
+      "source": "domain",
+      "name": "Linus Torvalds",
+      "commits": 24488,
+      "location": "Portland, OR",
+      "country_id": "us"
+    },
+    {
+      "login": "jglick",
+      "email": "jglick!cloudbees.com",
+      "affiliation": "CloudBees Inc.",
+      "source": "user",
+      "name": "Jesse Glick",
+      "commits": 16456,
+      "location": "Chapel Hill NC",
+      "country_id": null
+    },
+    {
+      "login": "nashif",
+      "email": "anas.nashif!intel.com",
+      "affiliation": "Intel",
+      "source": "domain",
+      "name": "Anas Nashif",
+      "commits": 10654,
+      "location": "Montreal, Canada",
+      "country_id": "ca"
+    },
+    {
+      "login": "stephentoub",
+      "email": "stoub!microsoft.com",
+      "affiliation": "Microsoft Corporation",
+      "source": "domain",
+      "name": "Stephen Toub",
+      "commits": 10245,
+      "location": null,
+      "country_id": null
+    }
+]
