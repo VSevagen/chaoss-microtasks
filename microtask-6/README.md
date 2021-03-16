@@ -4,8 +4,6 @@ Using the SortingHat GraphQL console, create a query that fetches the data of an
 
 ### Query to fetch individual's data
 
-I found the query in queries.js
-
 ```
 query GetIndividuals($page: Int!, $pageSize: Int!) {
     individuals(page: $page, pageSize: $pageSize) {
@@ -35,3 +33,7 @@ query GetIndividuals($page: Int!, $pageSize: Int!) {
     }
   }
 ```
+
+### Image of executed query
+
+![Query image](Query.png)
