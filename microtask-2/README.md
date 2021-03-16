@@ -14,3 +14,5 @@ Execute micro-mordred to collect, enrich and visualize data from Git repositorie
 2. Ran into [Issue#274](https://github.com/chaoss/grimoirelab/issues/274) and used the solution provided.
 
 Here is a demo
+
+![MicroMordred Demo](MicroMordred.gif)
