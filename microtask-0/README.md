@@ -1,4 +1,4 @@
-## Microtask-1
+## Microtask-0
 
 Download PyCharm and get familiar with it.
 
@@ -6,4 +6,4 @@ Download PyCharm and get familiar with it.
 
 1. Download and install [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
-Here is a small demo
+Here is small gif to prove installation.
