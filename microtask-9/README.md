@@ -4,4 +4,5 @@ Submit a PR to any of the [GrimoireLab Components](https://github.com/chaoss/gri
 
 [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
 
-- [tests] Add test for metadata\_\_updated_on field - [Commit](https://github.com/VSevagen/grimoirelab-elk/commit/00d1cfb3bcc505bca0d8865f537de868d6deaa77)
+- [#969](https://github.com/chaoss/grimoirelab-elk/pull/969): Add test for metadata\_\_updated_on field
+- [#968](https://github.com/chaoss/grimoirelab-elk/pull/968): Add test for transactionID field
