@@ -1,6 +1,6 @@
 ## Microtask-9
 
-Submit a PR to any of the [GrimoireLab Components](https://github.com/chaoss/grimoirelab#grimoirelab-components) to increase the test coverage of one or more lines of the source code.
+Submit a PR to any of the [GrimoireLab Components](https://github.com/chaoss/grimoirelab#grimoirelab-components) to increase the test coverage of one or more files of the source code.
 
 [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
 
