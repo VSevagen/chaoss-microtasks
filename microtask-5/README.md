@@ -4,28 +4,28 @@ Create a sample profile wil different identities and enrollments using the Sorti
 
 ### Before setting up profiles
 
-![Image before setting profile](Initial.png)
+![Image before setting profile](images/Initial.png)
 
 ### Adding organisation
 
-![image of adding org](AddingOrg.png)
+![image of adding org](images/AddingOrg.png)
 
 ### Adding an Individual
 
-![image of adding individual](AddingIndividual.png)
+![image of adding individual](images/AddingIndividual.png)
 
 ### After adding one profile
 
-![image after adding one profile](OneProfile.png)
+![image after adding one profile](images/OneProfile.png)
 
 ### Several Profile
 
-![image of several profiles](EveryProfile.png)
+![image of several profiles](images/EveryProfile.png)
 
 ### Merging Profiles
 
-![Merging profiles](Merging.png)
+![Merging profiles](images/Merging.png)
 
 ### Final Profile
 
-![Final Profile](FinalProfile.png)
+![Final Profile](images/FinalProfile.png)
