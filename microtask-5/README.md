@@ -29,7 +29,3 @@ Create a sample profile wil different identities and enrollments using the Sorti
 ### Final Profile
 
 ![Final Profile](FinalProfile.png)
-
-### After setting up profiles
-
-![Image after setting profile](Profile.png)
