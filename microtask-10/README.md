@@ -11,3 +11,7 @@ I have listed the contributions to the GrimoireLab components<br>
 [chaoss/grimoirelab-sigils](https://github.com/VSevagen/grimoirelab-sigils)
 
 - [#483](https://github.com/chaoss/grimoirelab-sigils/pull/483): Update Twitter index pattern
+
+[chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+
+- [#971](https://github.com/chaoss/grimoirelab-elk/pull/971): Improve telegram coverage
