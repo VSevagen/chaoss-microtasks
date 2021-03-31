@@ -14,7 +14,7 @@ DATE_FROM = None
 DATE_UNTIL = None
 PREVIOUS_USERNAME = None
 
-with open("developers_affiliations.txt", "r") as reader:
+with open("test_developers_affiliations.txt", "r") as reader:
     # Read and print the entire file line by line
     line = reader.readline()
     while line != '':  # The EOF char is an empty string
