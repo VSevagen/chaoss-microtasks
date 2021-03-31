@@ -1,0 +1,19 @@
+binbinwu1: binbin.wu!intel.com, chanduveerlas93!gmail.com
+	Intel
+archana-s: archana.june!gmail.com
+	Quantifind until 2014-08-01
+	Couresra from 2014-08-01 until 2016-09-01
+	Netflix from 2016-09-01
+jcbsmpsn: jacobsimpson!google.com, jcbsmpsn!users.noreply.github.com
+	Amazon until 2015-07-01
+	Socrata Inc. from 2015-07-01 until 2016-07-01
+	Google from 2016-07-01
+mike-seagull: hollister.michael!gmail.com
+	CrossBrowserTesting
+06kellyjac: 06kellyjac!users.noreply.github.com, dev!j-k.io
+	Independent until 2016-06-01
+	G24 Power from 2016-06-01 until 2016-08-01
+	Independent from 2016-08-01 until 2017-05-01
+	Codeherent from 2017-05-01 until 2017-09-01
+	STEM Ambassadors from 2017-09-01 until 2018-10-01
+	ControlPlane from 2018-10-01
