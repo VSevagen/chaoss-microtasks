@@ -12,6 +12,6 @@ I have listed the contributions to the GrimoireLab components<br>
 
 - [#483](https://github.com/chaoss/grimoirelab-sigils/pull/483): Update Twitter index pattern
 
-[chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)
+[chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
 
-- [#971](https://github.com/chaoss/grimoirelab-elk/pull/971): Improve telegram coverage
+- [#498](https://github.com/chaoss/grimoirelab-sortinghat/pull/498): Remove unused CI file
