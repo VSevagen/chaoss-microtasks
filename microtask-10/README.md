@@ -15,3 +15,7 @@ I have listed the contributions to the GrimoireLab components<br>
 [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
 
 - [#498](https://github.com/chaoss/grimoirelab-sortinghat/pull/498): Remove unused CI file
+
+[chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
+
+- [#419](https://github.com/chaoss/grimoirelab/pull/419): Add missing componenents
