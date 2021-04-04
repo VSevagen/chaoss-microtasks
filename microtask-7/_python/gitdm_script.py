@@ -31,29 +31,27 @@ with open("test_developers_affiliations.txt", "r") as reader:
 
             NEW_USERNAME = username
 
-            if(USERNAME is None):
+            if not USERNAME:
                 USERNAME = username
 
-            if(USERNAME != NEW_USERNAME):
+            if USERNAME != NEW_USERNAME:
                 USERNAME = NEW_USERNAME
                 EMAIL = None
                 ORG = None
                 DATE_FROM = None
                 DATE_UNTIL = None
 
-            if(EMAIL is None):
+            if not EMAIL:
                 EMAIL = email
-
 
         except:
             org = re.match(ORGANISATION_FIRST_REGEX, line).group(0)
             org = org.lstrip()
-            if( "from" in org):
+            if "from" in org:
                 NEW_ORG = org_name
                 org_name = org.split("from")[0]
 
-
-                if(ORG is None):
+                if not ORG:
                     ORG = org_name
                 else:
                     if(ORG != NEW_ORG):
@@ -65,21 +63,19 @@ with open("test_developers_affiliations.txt", "r") as reader:
                 if len(date) == 2:
                     date_until = date[1]
 
-                    if(DATE_UNTIL is None):
+                    if not DATE_UNTIL:
                         DATE_UNTIL = date_until
 
                 else:
                     date_until = "Now"
-                    if(DATE_UNTIL is None):
+                    if not DATE_UNTIL:
                         DATE_UNTIL = date_until
-
-                
 
             else:
                 org_name = org.split("until")[0]
                 NEW_ORG = org_name
 
-                if(ORG is None):
+                if not ORG:
                     ORG = org_name
                 else:     
                     if(ORG != NEW_ORG):
@@ -90,16 +86,13 @@ with open("test_developers_affiliations.txt", "r") as reader:
                     date_until = date[0]
                     date_from = "Not found"
 
-                    if(DATE_FROM is None):
+                    if not DATE_FROM:
                         DATE_FROM = date_from
 
-                    if(DATE_UNTIL is None):
+                    if not DATE_UNTIL:
                         DATE_UNTIL = date_until
                 
-
         if USERNAME is not None and EMAIL is not None and ORG is not None:
-            # print(USERNAME, EMAIL, ORG, DATE_FROM, DATE_UNTIL)
-
             url = 'http://localhost:8000/graphql/'
             query = { 'mutation($paramUsername: String $paramEmail: String){addIdentity(email: $paramEmail source:"Affiliation Files" username: $paramUsername){uuid}}' }
             params = {'paramUsername': USERNAME, 'paramEmail': EMAIL[0]}
@@ -107,6 +100,4 @@ with open("test_developers_affiliations.txt", "r") as reader:
             resp = requests.post(url = url, params={'query':query, "variables": new_params})
             print(resp)
 
-
-    
         line = reader.readline()
