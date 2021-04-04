@@ -19,6 +19,13 @@ query GetIndividuals($page: Int!, $pageSize: Int!) {
           id
           name
         }
+        enrollments {
+          start
+          end
+          organization {
+            name
+          }
+        }
       }
       pageInfo {
         page
