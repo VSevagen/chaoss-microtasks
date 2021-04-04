@@ -19,7 +19,7 @@ The query used is <code>ADD_IDENTITY</code>. However, that can be swapped out wi
 
 Here is a small demo. The origin github_users file was way too large. I'm using the <code>github_users_test.json</code> for the demo.
 
-![ScriptDemo](js-script/script.gif)
+![ScriptDemo](js-script/js_script.gif)
 
 ### python
 
