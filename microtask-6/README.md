@@ -36,4 +36,4 @@ query GetIndividuals($page: Int!, $pageSize: Int!) {
 
 ### Image of executed query
 
-![Query image](Query.png)
+![Query gif](Query.gif)
