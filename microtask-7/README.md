@@ -37,4 +37,4 @@ The developer affiliations files are in <code>.txt</code> format. So first we ne
 
 Here is a small demo. The origin developers_affiliations.txt file was way too large. I'm using the <code>test_developers_affiliations.txt</code> for the demo.
 
-![ScriptDemo](python/python_script.gif)
+![ScriptDemo](python/py_script.gif)
